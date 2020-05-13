@@ -6,3 +6,7 @@
 /ContactsManagerApp/obj/
 /ContactsManagerApp.iOS/bin/iPhoneSimulator/Debug/
 /ContactsManagerApp.iOS/obj/
+/ContactsManagerApp.Android/bin/Debug/ContactsManagerApp.Android.dll
+/ContactsManagerApp.Android/bin/Debug/ContactsManagerApp.Android.pdb
+/ContactsManagerApp.Android/bin/Debug/ContactsManagerApp.dll
+/ContactsManagerApp.Android/bin/Debug/ContactsManagerApp.pdb
